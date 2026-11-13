@@ -158,7 +158,6 @@ Several algorithms were implemented directly from their mathematical definitions
 ## Author
 
 Norah Lynch
-
 **UCLA — B.S. Physics, Minor in Mathematics**
 
 

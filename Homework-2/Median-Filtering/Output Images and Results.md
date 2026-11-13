@@ -9,10 +9,8 @@ Each pixel is replaced by the median intensity
 of its local neighborhood, suppressing isolated
 intensity outliers.
 
-## 2. Original and Filtered Image Comparison
+<img width="565" height="468" alt="denoised_image" src="https://github.com/user-attachments/assets/23c277a8-d379-4e60-ad07-51958e79d8b7" />
 
-A comparison of the original grayscale image
-and the median-filtered result.
 
 ## Results
 

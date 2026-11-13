@@ -1,48 +1,33 @@
 
 # Histogram Equalization
 
-**UCLA MATH 155 — Homework 1, Problem 4**
+**MATH 155 — Homework 1, Problem 4**
 
-## Project Overview
+## Project Description
 
-This project implements histogram equalization to enhance
-the contrast of a grayscale image through a nonlinear
-intensity transformation.
+This project implements histogram equalization in MATLAB
+to enhance grayscale image contrast.
 
-The MATLAB implementation manually computes the image's
-intensity histogram, constructs a normalized probability
-distribution and cumulative distribution function (CDF),
-and maps the original pixel intensities to new grayscale
-values.
+The algorithm calculates the original intensity histogram,
+normalizes it to obtain a probability distribution, and
+constructs a cumulative distribution function (CDF).
 
-The transformation redistributes image intensities
-across the available grayscale range, improving the
-visibility of structures in regions with limited contrast.
-
-## Mathematical Method
-
-The intensity transformation is defined as:
-
-T(r) = (L - 1) * CDF(r)
-
-where L = 256 represents the number of grayscale levels.
+A nonlinear intensity transformation is then applied
+pixel by pixel to redistribute grayscale values.
 
 ## Computational Methods
 
-- Grayscale histogram computation
+- Grayscale intensity histogram computation
 - Probability distribution normalization
 - Cumulative distribution functions
 - Nonlinear intensity transformations
-- Pixel-by-pixel numerical implementation
+- Pixel-by-pixel image processing
 
-## Files
+## MATLAB Implementation
 
-- `histogram_equalization.m` — MATLAB source code
-- [Input Image](Input.md)
-- [Output Images and Results](Outputs.md)
+`histogram_equalization.m`
 
-## Results
+## Project Files
 
-Histogram equalization increased the visibility of
-structural features in the original image by modifying
-the distribution of grayscale intensities.
+- [Original Input](Input.md)
+- [Output Images and Results](Output%20Images%20and%20Results.md)

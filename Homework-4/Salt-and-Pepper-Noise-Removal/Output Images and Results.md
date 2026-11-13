@@ -6,7 +6,7 @@
 The original grayscale image after randomly
 introducing salt-and-pepper noise.
 
-img width="404" height="428" alt="noisy_image" src="https://github.com/user-attachments/assets/3898240d-af92-4db9-ae24-c74b542c0eb2" />
+<img width="404" height="428" alt="noisy_image" src="https://github.com/user-attachments/assets/3898240d-af92-4db9-ae24-c74b542c0eb2" />
 
 ## 2. Median-Filtered Image
 
@@ -34,4 +34,3 @@ The median filter more effectively reduces
 impulse noise while retaining structural
 boundaries in the tested image.
 
-<

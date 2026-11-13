@@ -45,7 +45,7 @@ analysis, image restoration, and tomographic reconstruction.
 
 ### Homework 5 — Image Reconstruction
 - Motion Blur and Image Restoration
-- Radon Transform and Filtered Backprojection (Radon%20-%20Transform%20-%20Reconstruction%20/%20README.md)
+- Radon Transform and Filtered Backprojection (Homework-5/Radon-Transform-Reconstruction/README.md)
 
 ## Featured Project: Tomographic Image Reconstruction
 

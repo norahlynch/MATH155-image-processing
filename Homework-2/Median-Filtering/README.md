@@ -30,6 +30,6 @@ handle image edges.
 
 ## Project Files
 
-- [Original Input](Original Input.md)
+- [Original Input](Input.md)
 - [Output Images and Results](Output%20Images%20and%20Results.md)
 

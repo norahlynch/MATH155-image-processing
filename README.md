@@ -74,4 +74,5 @@ Each project contains:
 ## Author
 
 Norah Lynch
+--
 UCLA — B.S. Physics, Minor in Mathematics

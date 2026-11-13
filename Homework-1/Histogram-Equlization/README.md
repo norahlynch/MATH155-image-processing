@@ -29,5 +29,5 @@ pixel by pixel to redistribute grayscale values.
 
 ## Project Files
 
-- [Original Input](Input.md)
+- [Original Input](Original%20Input.md)
 - [Output Images and Results](Output%20Images%20and%20Results.md)

@@ -20,11 +20,18 @@ applied to the original grayscale image.
 
 g(x,y) = f(x,y) - Laplacian(f(x,y))
 
-// The sharpening kernel is:
+The sharpening kernel is:
 
-    0  -1   0
-   -1   5  -1
-    0  -1   0
+   
+$$
+W =
+\begin{bmatrix}
+0 & -1 & 0 \\
+-1 & 5 & -1 \\
+0 & -1 & 0
+\end{bmatrix}
+$$
+
 
 ## Computational Methods
 

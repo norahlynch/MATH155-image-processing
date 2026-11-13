@@ -30,5 +30,5 @@ smoothing, and loss of image detail.
 
 ## Project Files
 
-- [Original Input](Input.md)
+- [Original Input](Homework-1/Spatial-Averaging-Filtering/Original Input.md)
 - [Output Images and Results](Output%20Images%20and%20Results.md)

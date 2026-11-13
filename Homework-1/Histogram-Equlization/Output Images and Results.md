@@ -18,6 +18,7 @@ original grayscale intensities.
 It maps each original intensity to a new output value.
 
 <img width="540" height="331" alt="histogram_equalization" src="https://github.com/user-attachments/assets/5f6573b2-e259-4859-8871-83206b92a2e8" />
+
 ## 3. Histogram-Equalized Image
 
 The processed image after applying the nonlinear
